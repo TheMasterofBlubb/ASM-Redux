@@ -30,6 +30,11 @@ There is some way of reading the Data remotely from the Monitor Application, but
 
 
 
+
+
+
+--------------------------------------------------------------------------------------------------------
+
 ASM-Redux - Arma Server Monitor 
 Copyright (C) 2020  Alexander Belov
 

@@ -17,3 +17,11 @@ Same goes for the Config file. If you happen to have one from good ol' times it 
 
 The target of the project was to port the ASM to 64 bit to have it functioning in some way.
 Goal achieved! 
+
+
+INSTRUCTION
+
+There is a ready to go @asm -Addon folder in the Tools Folder. Put that into your Mod Directory of Arma 3 and add it to the loaded Mods. Then Start the Monitor Application and thats it.
+
+It Supports upto 4 Arma Instances.
+There is some way of reading the Data remotely from the Monitor Application, but i couldnt find a proper manual for the Version i had(although reading the other manuals i found it seems to be easy, will add the original manuals when time comes).

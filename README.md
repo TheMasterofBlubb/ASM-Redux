@@ -3,7 +3,7 @@ Arma Server Monitor rework to fit 64bit and be compatible with the original Tool
 
 If you stumbled upon this : Welcome to my first ever Github repo ;)
 
-This is a small rewrite of the ASM (Arma Server Monitor) originally by Fred
+This is a small rewrite of the ASM (Arma Server Monitor) originally by Fred41
 
 Sadly i cant tell wich Version is originally was, but its the only one where i got a matching Feature set in the RV_Extension and Monitor Application.
 

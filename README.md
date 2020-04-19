@@ -30,16 +30,15 @@ There is some way of reading the Data remotely from the Monitor Application, but
 
 
 
+ASM-Redux - Arma Server Monitor 
+Copyright (C) 2020  Alexander Belov
 
-    ASM-Redux - Arma Server Monitor 
-    Copyright (C) 2020  Alexander Belov
+This program is under the terms of the Arma Public License Share Alike as published by
+Bohemia Interactive.
 
-    This program is under the terms of the Arma Public License Share Alike as published by
-    Bohemia Interactive.
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 
-    This program is distributed in the hope that it will be useful,
-    but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-
-    You should have received a copy of the Arma Public License Share Alike
-    along with this program.  If not, see <https://www.bohemia.net/community/licenses/arma-public-license-share-alike>
+You should have received a copy of the Arma Public License Share Alike
+along with this program.  If not, see <https://www.bohemia.net/community/licenses/arma-public-license-share-alike>

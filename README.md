@@ -5,7 +5,7 @@ If you stumbled upon this : Welcome to my first ever Github repo ;)
 
 This is a small rewrite of the ASM (Arma Server Monitor) originally by Fred41
 
-Sadly i cant tell wich Version is originally was, but its the only one where i got a matching Feature set in the RV_Extension and Monitor Application.
+Sadly i cant tell wich Version it originally was, but its the only one where i got a matching Feature set in the RV_Extension and Monitor Application.
 
 You are free to use it in your Arma community. 
 
